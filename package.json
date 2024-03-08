@@ -1,0 +1,9 @@
+{
+  "name": "@teavietnam/teavietnam",
+  "version": "1.0.0",
+  "description": "teavietnam",
+  "main": "index.js",
+  "author": "@teavietnam",
+  "repository": "https://github.com/teavietnam/teavietnam.git",
+  "license": "ISC"
+}
